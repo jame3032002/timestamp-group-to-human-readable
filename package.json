@@ -1,6 +1,6 @@
 {
   "name": "timestamp-group-to-human-readable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "helper function for change timestamp group to human readable",
   "main": "index.js",
   "scripts": {
